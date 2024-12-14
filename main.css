@@ -1,0 +1,57 @@
+*{    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{padding-top: 76px;
+
+}
+
+.list{display: flex;
+list-style: none;
+justify-content: space-around;
+}
+.item{color: black;
+font-size: 32px;
+font-weight: 700;
+}
+.hero{padding-top: 128px;
+
+}
+
+.title{color: black;
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+}
+.bola{
+    background: rgb(255, 0, 0);
+width: 558px;
+height: 452px;
+left: 63px;
+top: 448px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 100px;
+color: white;
+
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    justify-content: space-around;
+}
+.footer{padding-top: 76px;
+
+}
+.list1{display: flex;
+    list-style: none;
+    justify-content: space-around;
+
+}
+.item1{color: black;
+    font-size: 32px;
+    font-weight: 700;
+
+}
